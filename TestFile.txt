@@ -1,0 +1,3 @@
+Hello Mr Naresh Gonuguntla
+We are reading files through Functional programing
+By using Files and Paths
